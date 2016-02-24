@@ -3,7 +3,7 @@ People
 
 [![Code Climate](http://img.shields.io/codeclimate/github/netguru/people.svg)](https://codeclimate.com/github/netguru/people)
 [![Dependencies](http://img.shields.io/gemnasium/netguru/people.svg)](https://gemnasium.com/netguru/people)
-[![Circle CI](https://circleci.com/gh/netguru/people.svg?style=svg)](https://circleci.com/gh/netguru/people)
+[![Circle CI](https://circleci.com/gh/netguru/people.svg?style=svg)](https://circleci.com/gh/netguru/people) [![codebeat badge](https://codebeat.co/badges/b780ba79-c497-4216-9d02-93a0b3701de5)](https://codebeat.co/projects/github-com-blaszczakphoto-people)
 
 ## About the app
 
