@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5'
 
 gem 'acts_as_list'
-gem 'fdsafdsafdsafadsfads', 'fdsafasd', tooooo_long_lineeeeeeeeeeeeeeeeeeeeerwrewfdsdsfdsafdsafdasfdsafdsafafdsafads: 'fdasfasdfadsfdsafadsfasdfasdfds'
+gem 'fdsafdsafdsafadsfads', 'fdsafasd', tooooo_long_lineeeeeeeeeeeeeeeeeeefdsaeerwrewfdsdsfdsafdsafdasfdsafdsafafdsafads: 'fdasfasdfadsfdsafadsfasdfasdfds'
 gem 'animate-scss'
 gem 'airbrussh', require: false
 gem 'autoprefixer-rails'
